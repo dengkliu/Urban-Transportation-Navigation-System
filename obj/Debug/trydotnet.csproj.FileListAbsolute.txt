@@ -1,0 +1,10 @@
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\trydotnet.exe.config
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\trydotnet.exe
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\trydotnet.pdb
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.csprojResolveAssemblyReference.cache
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.Form1.resources
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.Properties.Resources.resources
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.csproj.GenerateResource.Cache
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.exe
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.pdb

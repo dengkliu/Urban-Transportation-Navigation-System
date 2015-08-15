@@ -1,0 +1,29 @@
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\trydotnet.exe.config
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.exe
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.pdb
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\trydotnet.exe
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\trydotnet.pdb
+C:\Users\huty\Desktop\trydotnet\trydotnet\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\wuhandriver.csprojResolveAssemblyReference.cache
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.Form1.resources
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\trydotnet.Properties.Resources.resources
+C:\Users\huty\Desktop\trydotnet\trydotnet\obj\Debug\wuhandriver.csproj.GenerateResource.Cache
+C:\Users\huty\Desktop\trydotnet4\trydotnet\bin\Debug\trydotnet.exe.config
+C:\Users\huty\Desktop\trydotnet4\trydotnet\obj\Debug\trydotnet.exe
+C:\Users\huty\Desktop\trydotnet4\trydotnet\obj\Debug\trydotnet.pdb
+C:\Users\huty\Desktop\trydotnet4\trydotnet\bin\Debug\trydotnet.exe
+C:\Users\huty\Desktop\trydotnet4\trydotnet\bin\Debug\trydotnet.pdb
+C:\Users\huty\Desktop\trydotnet4\trydotnet\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\huty\Desktop\trydotnet4\trydotnet\obj\Debug\wuhandriver.csprojResolveAssemblyReference.cache
+C:\Users\huty\Desktop\trydotnet4\trydotnet\obj\Debug\trydotnet.Form1.resources
+C:\Users\huty\Desktop\trydotnet4\trydotnet\obj\Debug\trydotnet.Properties.Resources.resources
+C:\Users\huty\Desktop\trydotnet4\trydotnet\obj\Debug\wuhandriver.csproj.GenerateResource.Cache
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\bin\Debug\trydotnet.exe.config
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\obj\Debug\trydotnet.exe
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\obj\Debug\trydotnet.pdb
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\bin\Debug\trydotnet.exe
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\bin\Debug\trydotnet.pdb
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\obj\Debug\wuhandriver.csprojResolveAssemblyReference.cache
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\obj\Debug\trydotnet.Form1.resources
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\obj\Debug\trydotnet.Properties.Resources.resources
+C:\driveD\huty documents\本科制作\毕业设计\trydotnet4\trydotnet\obj\Debug\wuhandriver.csproj.GenerateResource.Cache
